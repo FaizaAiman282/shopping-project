@@ -5,6 +5,3 @@ P4, Keyboard
 P5, Mouse
 P6, Monitor
 P7, Printer
-P8, Earphones
-P9, Bottle
-P10,Airpods
