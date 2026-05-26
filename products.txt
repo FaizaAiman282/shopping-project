@@ -1,0 +1,7 @@
+P1, Laptop
+P2, Smartphone
+P3, Headphones
+P4, Keyboard
+P5, Mouse
+P6, Monitor
+P7, Printer
